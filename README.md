@@ -31,3 +31,7 @@ An other issue of this system is that the single point of failure is the Raspber
 - When triggered by the Arduino, it collects the data from it, stores it on the disk and closes the order with the data.
 
 To set up the Raspberry an USB-TTL adapter was used to communicate with its UART port. 
+
+### Sketch of the breadboard
+
+<img src="\Arduino\fritzing_sketch.png" alt="fritzing_sketch"  />

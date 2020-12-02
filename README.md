@@ -34,4 +34,4 @@ To set up the Raspberry an USB-TTL adapter was used to communicate with its UART
 
 ### Sketch of the breadboard
 
-<img src="\Arduino\fritzing_sketch.png" alt="fritzing_sketch"  />
+<img src=".\Arduino\fritzing_sketch.png" alt="fritzing_sketch"  />
